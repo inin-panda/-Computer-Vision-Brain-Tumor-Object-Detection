@@ -48,19 +48,19 @@ This project, **“Experimenting with Object Detection Models for Brain Tumor De
 - Training set: 878 image files.
 - Test set: 223 image files.
 
-### Coronal_t1wce_2_class:
+** Coronal_t1wce_2_class:**
 - Training set: 319 images + 318 labels
 - Test set: 78 images + 78 labels
 
-### Axial_t1wce_2_class:
+** Axial_t1wce_2_class:**
 - Training set: 310 images + 296 labels
 - Test set: 75 images + 75 labels
 
-### Sagittal_t1wce_2_class:
+** Sagittal_t1wce_2_class:**
 - Training set: 264 images + 264 labels
 - Test set: 70 images + 70 labels
 
-**Dataset Link:**
+### Dataset Link:
 - The dataset can be accessed on Kaggle: [Brain Tumor Object Detection Datasets](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets)
 
 ## Getting Started
