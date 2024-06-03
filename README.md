@@ -60,6 +60,9 @@ This project, **“Experimenting with Object Detection Models for Brain Tumor De
 - Training set: 264 images + 264 labels
 - Test set: 70 images + 70 labels
 
+**Dataset Link:**
+- The dataset can be accessed on Kaggle: [Brain Tumor Object Detection Datasets](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets)
+
 ## Getting Started
 
 ### Prerequisites
